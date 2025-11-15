@@ -100,14 +100,17 @@ const resources = [
     items: [
       {
         title: "AI Ethics Community",
+        url: "https://ethicists.ai/",
         description: "Join discussions on responsible AI development",
       },
       {
         title: "Compliance Professionals Network",
+        url: "https://ethicists.ai/",
         description: "Connect with AI compliance practitioners",
       },
       {
         title: "Internal AI Working Group",
+        url: "https://ethicists.ai/",
         description: "Participate in your organization's AI governance",
       },
     ],
